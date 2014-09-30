@@ -8,7 +8,7 @@ __author__ = 'xiaoyazi'
 #the string to be encrypted/decrypted
 message = 'This is my secret message.'
 
-#the key to encrypton/decryption
+#the key to encryption/decryption
 key = 13
 
 # encrypt or decrypte
